@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Daniel Lopez</h1>
-<h3 align="center">A passionate developer studying at UC Santa Barbra</h3>
+<h1 align="center">Hey, I'm Daniel Lopez</h1>
+<h3 align="center">A developer studying at UC Santa Barbra</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=danrublop&label=Profile%20views&color=0e75b6&style=flat" alt="danrublop" /> </p>
 
