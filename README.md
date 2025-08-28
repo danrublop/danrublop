@@ -9,7 +9,7 @@
 
 - 👯 I built a code translator/debug/explanations [I can't code translator](https://github.com/danrublop/I-can-t-code-translator.git)
 
-- 💰 I build a a personal finance bot for Telegram that processes natural language expense inputs (amount + description) and automatically logs transactions to Google Sheets. Integrated AI-powered analytics to generate detailed monthly expense reports with intelligent spending categorization and financial insights. [Expense Tracker](https://github.com/danrublop/Expense-Tracker.git)
+- 💰 I built a a personal finance bot for Telegram that processes natural language expense inputs (amount + description) and automatically logs transactions to Google Sheets. Integrated AI-powered analytics to generate detailed monthly expense reports with intelligent spending categorization and financial insights. [Expense Tracker](https://github.com/danrublop/Expense-Tracker.git)
 
 - 👨‍💻 All of my projects are available at [https://github.com/danrublop](https://github.com/danrublop)
 
