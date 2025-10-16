@@ -1,23 +1,11 @@
-<h1 align="center">Hey, I'm Daniel Lopez</h1>
+<h1 align="center">Hey</h1>
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=danrublop&label=Profile%20views&color=0e75b6&style=flat" alt="danrublop" /> </p>
 
-- 🔭 I’m currently working on a automated content creation extension for Adobe apps [Cench AI](https://github.com/danrublop/cenchDAV.git)
-
-- 🌱 I’m currently learning **Machine Learning**
-
-- 👯 I built a code translator/debug/explanations [I can't code translator](https://github.com/danrublop/I-can-t-code-translator.git)
-
-- 💰 I built a a personal finance bot for Telegram that processes natural language expense inputs (amount + description) and automatically logs transactions to Google Sheets. Integrated AI-powered analytics to generate detailed monthly expense reports with intelligent spending categorization and financial insights. [Expense Tracker](https://github.com/danrublop/Expense-Tracker.git)
-
-- 👨‍💻 All of my projects are available at [https://github.com/danrublop](https://github.com/danrublop)
-
-- 💬 Ask me about **fintech**
 
 - 📫 How to reach me **drlny11d@gmail.com**
 
-- ⚡ Fun fact **I like to dance 🇵🇪**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
