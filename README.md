@@ -7,8 +7,8 @@ Currently buldidng a agentic video editor
 past builds:
 -telegram expense tracker
 -telegram contact/dates tracker
--POS sysstem
--desktop code trnaslator and debug useing lcoal llms
+-POS system
+-desktop code translator and debug using local LLMS
 
 - 📫 How to reach me **drlny11d@gmail.com**
 
