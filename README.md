@@ -2,7 +2,7 @@
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=danrublop&label=Profile%20views&color=0e75b6&style=flat" alt="danrublop" /> </p>
-Currently buldidng a agentic video editor
+Currently buldidng a agentic POS software
 
 past builds:
 -telegram expense tracker
