@@ -1,24 +1,27 @@
-<h1 align="center">Hey</h1>
+# Hey, I'm Daniel 👋 &nbsp;<a href="https://www.linkedin.com/in/daniel-lopez-009620276"><img src="https://img.shields.io/badge/-Daniel_Lopez-white?style=flat&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZmlsbD0iIzBBNjZDMiIgZD0iTTIwLjQ0NyAyMC40NTJoLTMuNTU0di01LjU2OWMwLTEuMzI4LS4wMjctMy4wMzctMS44NTItMy4wMzctMS44NTMgMC0yLjEzNiAxLjQ0NS0yLjEzNiAyLjkzOXY1LjY2N0g5LjM1MVY5aDMuNDE0djEuNTYxaC4wNDZjLjQ3Ny0uOSAxLjYzNy0xLjg1IDMuMzctMS44NSAzLjYwMSAwIDQuMjY3IDIuMzcgNC4yNjcgNS40NTV2Ni4yODZ6TTUuMzM3IDcuNDMzYTIuMDYyIDIuMDYyIDAgMCAxLTIuMDYzLTIuMDY1IDIuMDY0IDIuMDY0IDAgMSAxIDIuMDYzIDIuMDY1em0xLjc4MiAxMy4wMTlIMy41NTVWOWgzLjU2NHYxMS40NTJ6TTIyLjIyNSAwSDEuNzcxQy43OTIgMCAwIC43NzQgMCAxLjcyOXYyMC41NDJDMCAyMy4yMjcuNzkyIDI0IDEuNzcxIDI0aDIwLjQ1MUMyMy4yIDI0IDI0IDIzLjIyNyAyNCAyMi4yNzFWMS43MjlDMjQgLjc3NCAyMy4yIDAgMjIuMjIyIDB6Ii8+PC9zdmc+" alt="LinkedIn" height="32" /></a> &nbsp;<a href="https://x.com/danrublop"><img src="https://img.shields.io/badge/-danrublop-white?style=flat&logo=x&logoColor=black" alt="X" height="32" /></a>
 
+Currently co-founding **[Swftly](https://swftly.app)** — an agentic POS platform that lets AI agents autonomously manage brick & mortar stores. Think inventory, accounting, and vendor communication, all handled by agents.
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=danrublop&label=Profile%20views&color=0e75b6&style=flat" alt="danrublop" /> </p>
-Currently buldidng a agentic POS software
+CS student @ Stony Brook University · Developer @ Stony Brook Dept of Information Technology.
 
-past builds:
--telegram expense tracker
--telegram contact/dates tracker
--POS system
--desktop code translator and debug using local LLMS
+---
 
-- 📫 How to reach me **drlny11d@gmail.com**
+## 🚀 Projects
 
+**[Swftly](https://swftly.app)** — Agentic POS & Business Management Platform
+> AI agents that autonomously run retail operations — inventory, accounting, vendor comms. Live in production.
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/danrublop" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="danrublop" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/www.linkedin.com/in/daniel-lopez-009620276" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/daniel-lopez-009620276" height="30" width="40" /></a>
-<a href="https://instagram.com/danrublop" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="danrublop" height="30" width="40" /></a>
-</p>
+**[Thriive Videos](https://www.thriive.ai)** — AI Explainer Video Generator
+> Converts prompts into polished explainer videos with AI-generated scenes, narration, avatars, and music. Built on Veo 3, DALL-E 3, HeyGen, and OpenAI TTS.
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://zapier.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/zapier/zapier-icon.svg" alt="zapier" width="40" height="40"/> </a> </p>
+**AI Code Tabulator** — Code to Natural Language Translator
+> Translates code into plain natural language explanations — making any codebase instantly readable.
+
+**[E-Commerce Site](https://harvell-ml18.vercel.app)** — Full-Stack Storefront
+> End-to-end e-commerce platform with product management, cart, and checkout.
+
+---
+
+## 🛠️ Stack
+
+`Python` `TypeScript` `React` `Next.js` `FastAPI` `Node.js` `PostgreSQL` `SQLite` `FFmpeg` `WebGL` `OpenAI` `Google GenAI` `LangChain`
