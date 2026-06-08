@@ -8,7 +8,7 @@ Data Science + CS student @ Stony Brook University · Developer @ Stony Brook De
 
 ## Projects
 
-**[Cench Studio](https://github.com/danrublop/cenchstudio)** — AI Video Editor *(actively building)*
+**[dreambyte](https://www.dreambyte.studio/)** — AI Video Editor *(actively building)*
 > Prompt-to-video editor powered by multi-agent orchestration. Unified 8 image models, 5 avatar providers, and 5 TTS engines — including ElevenLabs, HeyGen, and Veo3 — under a single generation API with deterministic MP4 export.
 > `TypeScript` `React` `Next.js` `Electron` `Three.js` `Claude API` `Ollama` `PostgreSQL` `FFmpeg`
 
